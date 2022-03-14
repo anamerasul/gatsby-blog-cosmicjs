@@ -1,7 +1,12 @@
-node_modules/
-public
-.gatsby-context.js
-.DS_Store
-.intermediate-representation/
-.cache/
-yarn.lock
+# IDE Files
+#-------------------------
+/nbproject/
+.idea/*
+
+## Sublime Text cache files
+*.tmlanguage.cache
+*.tmPreferences.cache
+*.stTheme.cache
+*.sublime-workspace
+*.sublime-project
+
